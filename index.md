@@ -11,3 +11,9 @@
 ```
 curl 'https://www.pushsquare.com/'
 ```
+
+Before running this command, please ensure:
+- [ ] Download the latest Ubuntu
+- [ ] Start 'er up
+- [ ] Type in the command
+- [ ] Watch crazy things being printed to your terminal.
